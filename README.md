@@ -1,6 +1,6 @@
 [Alpha Version (sometimes untested and unstable)](https://github.com/harryaldwithjarryald/ProjectCMD/archive/refs/heads/main.zip)
 <br>
-[1.00 Release](https://github.com/harryaldwithjarryald/ProjectCMD/releases/tag/1.00)
+[Latest Release (Online)](https://github.com/harryaldwithjarryald/ProjectCMD/releases/tag/latest)
 <br>
 [1.00 Offline Release](https://github.com/harryaldwithjarryald/ProjectCMD/releases/tag/offline-1.00)
 
