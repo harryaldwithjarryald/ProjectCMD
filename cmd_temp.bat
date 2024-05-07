@@ -1,4 +1,4 @@
-%echo off
+@echo off
 powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/ProjectCMD/main/execute.reg -OutFile execute_ProjectCMD.reg
 powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/ProjectCMD/main/booster.reg -OutFile booster_ProjectCMD.reg
 echo NOTE:  Everytime you restart your computer in the cmd window, you will need to redo this.
