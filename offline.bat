@@ -5,3 +5,4 @@ echo Then, once on the cmd window type "C:\booster.reg"
 execute.REG
 del execute.REG
 shutdown -r -t 1
+a
